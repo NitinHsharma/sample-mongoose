@@ -1,0 +1,24 @@
+{
+  "name": "sample-mongoose",
+  "version": "1.0.0",
+  "description": "sample project for mongoose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NitinHsharma/sample-mongoose.git"
+  },
+  "author": "nitin.sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NitinHsharma/sample-mongoose/issues"
+  },
+  "homepage": "https://github.com/NitinHsharma/sample-mongoose#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "mongoose": "^5.12.3"
+  }
+}
